@@ -1,0 +1,37 @@
+/* 
+  Localizable.strings
+  NHACBPro
+
+  Created by hu jiaju on 16/5/30.
+  Copyright © 2016年 hu jiaju. All rights reserved.
+*/
+
+klogin                              =       "Sign in";
+kregister                           =       "Sign up";
+kforgetpasswd                       =       "forget passwd";
+
+kpersoninfo                         =       "Personal Info";
+kretrievepwd                        =       "Retrieve pwd";
+ksmscode                            =       "get sms code";
+
+kwallet                             =       "Wallet";
+ksetting                            =       "Setting";
+kdailysign                          =       "Dailysign";
+kactivity                           =       "Activity";
+kfinancenews                        =       "Finance News";
+kcustomer                           =       "Customer";
+krecommend                          =       "Recommend";
+khelp                               =       "Help Center";
+knoticer                            =       "Notices";
+//helper
+kfeedback                           =       "feedback";
+kcomproblem                         =       "comm problems";
+kplatform                           =       "platform report";
+khotline                            =       "hot line";
+kweixinpublic                       =       "weixin public";
+kqqgroup                            =       "QQ group";
+
+knextstep                           =       "next step";
+ksubmit                             =       "submit";
+kalert                              =       "alert";
+kcancel                             =       "cancel";

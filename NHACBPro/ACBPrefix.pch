@@ -1,0 +1,25 @@
+//
+//  ACBPrefix.pch
+//  NHACBPro
+//
+//  Created by hu jiaju on 16/5/27.
+//  Copyright © 2016年 hu jiaju. All rights reserved.
+//
+
+#ifndef ACBPrefix_pch
+#define ACBPrefix_pch
+
+//pre define
+#define SV_APP_EXTENSIONS 1
+#import "SVProgressHUD.h"
+
+#import "PBKits.h"
+//define this constant if you want to use Masonry without the 'mas_' prefix
+#define MAS_SHORTHAND
+//define this constant if you want to enable auto-boxing for default syntax
+#define MAS_SHORTHAND_GLOBALS
+#import "Masonry.h"
+#import "NHConstants.h"
+#import <SDWebImage/UIImageView+WebCache.h>
+
+#endif /* ACBPrefix_pch */
